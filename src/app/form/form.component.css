@@ -1,0 +1,36 @@
+.nav {
+    background: black;
+    color: white;
+}
+
+.container {
+    width: 100%;
+	height: 557px;
+	background-image:url('/assets/img/tec.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.form {
+    padding:10px;
+    margin: 100px;
+	float: right;
+	position: relative;
+	top:-15px;
+	border-width: 12px;
+	border-color: rgba(120,120,120,0.5);
+	border-style: solid;
+	background-color: white;
+	background-clip:padding-box;
+}
+
+.footer{
+	padding:20px 0;
+	text-align: center;
+	color: #888;
+	margin-top: 100px;
+}
+
+.footer p{
+	margin-top:8px;
+}
